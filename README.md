@@ -116,4 +116,3 @@ Without clearly defining scope, identifying stakeholders, and understanding orga
 
 This project demonstrates the foundational work that happens before risk assessments, policy development, and certification activities begin.
 
- my other cybersecurity projects.
