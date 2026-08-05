@@ -104,6 +104,7 @@ Developing practical actions required before certification, including governance
 * GDPR
 * Security Consulting
 
+You can find full report here ISO27001_Scoping_Workshop_SafempireHealth.pdf
 
 ## Why This Project Matters
 
