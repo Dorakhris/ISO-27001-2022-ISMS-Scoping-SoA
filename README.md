@@ -104,7 +104,7 @@ Developing practical actions required before certification, including governance
 * GDPR
 * Security Consulting
 
-You can find full report here ISO27001_Scoping_Workshop_SafempireHealth.pdf
+You can find full report here (https://github.com/Dorakhris/ISO-27001-2022-ISMS-Scoping-SoA/blob/fe516cdf22ed00887b1aecc80a4a0a67d90f9090/ISO27001_Scoping_Workshop_SafempireHealth.pdf)
 
 ## Why This Project Matters
 
